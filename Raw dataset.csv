@@ -1,0 +1,501 @@
+Sale_ID,Date,Brand,Product_Type,Country,Sales_Channel,Payment_Method,Price_USD,Units_Sold,Revenue_USD
+454,45658,Nestle,Chocolate Box,UAE,Online,Cash,19.58,101,1977.58
+491,45658,Mars,Truffles,Germany,Specialty Store,Card,3.58,117,418.86
+499,45659,Nestle,Chocolate Box,Italy,Specialty Store,Cash,12.12,80,969.6
+230,45660,Cadbury,Milk Chocolate,Germany,Specialty Store,Cash,22.88,9,205.92
+195,45661,Ferrero,Milk Chocolate,India,Supermarket,Digital Wallet,13.69,115,1574.35
+453,45661,Ferrero,Chocolate Bar,Saudi Arabia,Online,Card,23.48,11,258.28
+276,45662,Ferrero,White Chocolate,Saudi Arabia,Specialty Store,Card,21.56,115,2479.4
+400,45662,Nestle,Truffles,Australia,Specialty Store,Card,13.4,54,723.6
+18,45663,Mars,Chocolate Bar,UAE,Convenience Store,Cash,17.81,34,605.54
+107,45664,Hershey,Truffles,Saudi Arabia,Supermarket,Cash,15.42,125,1927.5
+368,45664,Nestle,Dark Chocolate,Australia,Supermarket,Digital Wallet,9.07,104,943.28
+100,45666,Hershey,Chocolate Box,France,Convenience Store,Digital Wallet,4.59,61,279.99
+358,45666,Ferrero,Chocolate Box,India,Online,Card,24.13,155,3740.15
+22,45667,Nestle,White Chocolate,France,Online,Cash,5.02,97,486.94
+323,45669,Mars,Chocolate Box,Australia,Specialty Store,Digital Wallet,24.52,123,3015.96
+468,45669,Mars,Truffles,Germany,Online,Card,24.94,55,1371.7
+385,45670,Hershey,Dark Chocolate,UK,Supermarket,Card,13.36,80,1068.8
+367,45671,Lindt,Chocolate Bar,Italy,Convenience Store,Card,4.52,146,659.92
+430,45671,Cadbury,Milk Chocolate,Australia,Supermarket,Digital Wallet,21.58,173,3733.34
+228,45672,Nestle,Chocolate Box,Saudi Arabia,Supermarket,Cash,9.67,30,290.1
+362,45673,Hershey,Milk Chocolate,Saudi Arabia,Specialty Store,Card,16.77,120,2012.4
+487,45674,Nestle,Chocolate Bar,France,Online,Card,6.6,86,567.6
+153,45675,Ferrero,Dark Chocolate,UAE,Convenience Store,Digital Wallet,15.54,192,2983.68
+346,45675,Nestle,Chocolate Box,USA,Online,Card,21.38,24,513.12
+137,45676,Cadbury,Dark Chocolate,Canada,Online,Digital Wallet,5.34,156,833.04
+161,45677,Lindt,Dark Chocolate,France,Supermarket,Card,9.35,131,1224.85
+229,45677,Mars,Milk Chocolate,Canada,Specialty Store,Digital Wallet,8.95,125,1118.75
+52,45679,Cadbury,Milk Chocolate,France,Online,Card,9.44,15,141.6
+246,45679,Toblerone,Truffles,UAE,Online,Cash,18.85,95,1790.75
+265,45679,Lindt,Dark Chocolate,Italy,Convenience Store,Digital Wallet,21.07,12,252.84
+356,45679,Toblerone,Truffles,UAE,Online,Cash,7.67,182,1395.94
+61,45680,Toblerone,Chocolate Bar,France,Convenience Store,Card,18.45,5,92.25
+136,45680,Mars,Truffles,India,Supermarket,Card,9.66,126,1217.16
+237,45680,Nestle,Chocolate Box,Germany,Specialty Store,Digital Wallet,10.43,91,949.13
+327,45680,Toblerone,Milk Chocolate,USA,Supermarket,Digital Wallet,11.55,64,739.2
+456,45680,Hershey,Chocolate Box,Saudi Arabia,Specialty Store,Digital Wallet,23.23,138,3205.74
+106,45681,Cadbury,Chocolate Box,Germany,Specialty Store,Cash,24.42,146,3565.32
+277,45681,Toblerone,Milk Chocolate,Saudi Arabia,Convenience Store,Cash,11.51,150,1726.5
+418,45682,Nestle,Truffles,USA,Online,Cash,3.53,165,582.45
+83,45683,Ferrero,Truffles,Saudi Arabia,Convenience Store,Card,8.35,88,734.8
+275,45683,Nestle,Chocolate Box,Canada,Convenience Store,Digital Wallet,8.83,157,1386.31
+297,45683,Ferrero,Chocolate Box,France,Online,Cash,17.57,140,2459.8
+227,45685,Ferrero,Truffles,UK,Convenience Store,Cash,11.42,100,1142
+206,45686,Cadbury,Truffles,Canada,Online,Cash,10.42,23,239.66
+181,45688,Toblerone,White Chocolate,UK,Specialty Store,Card,15.7,148,2323.6
+289,45689,Ferrero,Chocolate Bar,Saudi Arabia,Specialty Store,Digital Wallet,18.38,137,2518.06
+330,45689,Mars,Milk Chocolate,India,Specialty Store,Cash,15.03,156,2344.68
+13,45691,Mars,White Chocolate,France,Specialty Store,Card,7.25,150,1087.5
+255,45691,Cadbury,Milk Chocolate,Germany,Convenience Store,Digital Wallet,14.87,79,1174.73
+326,45692,Hershey,Chocolate Bar,USA,Supermarket,Digital Wallet,4.77,13,62.01
+62,45693,Toblerone,White Chocolate,UK,Convenience Store,Digital Wallet,23.85,89,2122.65
+141,45693,Cadbury,Milk Chocolate,UK,Specialty Store,Cash,7.78,180,1400.4
+450,45693,Nestle,White Chocolate,Saudi Arabia,Online,Digital Wallet,22.23,77,1711.71
+268,45695,Hershey,Truffles,Canada,Specialty Store,Cash,17.99,45,809.55
+364,45695,Hershey,Chocolate Box,Germany,Specialty Store,Card,4.35,44,191.4
+434,45695,Lindt,White Chocolate,France,Online,Cash,2.88,22,63.36
+494,45695,Ferrero,Chocolate Box,UK,Online,Card,10.19,101,1029.19
+156,45696,Nestle,Chocolate Box,India,Convenience Store,Cash,5.67,62,351.54
+460,45696,Nestle,Chocolate Bar,UK,Supermarket,Cash,23.73,39,925.47
+75,45697,Cadbury,White Chocolate,Saudi Arabia,Online,Cash,18.55,65,1205.75
+371,45697,Mars,Chocolate Box,Canada,Supermarket,Card,10.63,68,722.84
+335,45698,Lindt,Chocolate Bar,France,Online,Card,23.25,99,2301.75
+41,45699,Toblerone,Chocolate Bar,Saudi Arabia,Convenience Store,Cash,11.93,154,1837.22
+113,45699,Toblerone,Dark Chocolate,Germany,Online,Card,6.03,49,295.47
+214,45699,Cadbury,White Chocolate,India,Supermarket,Digital Wallet,15.61,41,640.01
+180,45701,Mars,Chocolate Box,Saudi Arabia,Supermarket,Digital Wallet,4.6,29,133.4
+210,45701,Lindt,Milk Chocolate,Canada,Specialty Store,Digital Wallet,13.85,49,678.65
+457,45701,Ferrero,Chocolate Box,India,Online,Digital Wallet,15.57,134,2086.38
+489,45703,Mars,Chocolate Box,Saudi Arabia,Specialty Store,Cash,20.99,176,3694.24
+274,45704,Hershey,Milk Chocolate,France,Convenience Store,Cash,23.77,134,3185.18
+464,45704,Hershey,Chocolate Bar,USA,Convenience Store,Card,18.5,96,1776
+3,45705,Toblerone,Dark Chocolate,Australia,Supermarket,Digital Wallet,7.42,134,994.28
+6,45705,Nestle,White Chocolate,Italy,Convenience Store,Cash,11.05,96,1060.8
+414,45705,Cadbury,Chocolate Box,Saudi Arabia,Specialty Store,Card,11.56,196,2265.76
+422,45706,Lindt,Milk Chocolate,Italy,Supermarket,Digital Wallet,2.52,127,320.04
+279,45707,Toblerone,White Chocolate,Germany,Supermarket,Digital Wallet,11.36,91,1033.76
+351,45707,Ferrero,Chocolate Bar,Australia,Convenience Store,Card,14.3,66,943.8
+498,45707,Toblerone,Truffles,Germany,Online,Card,3.62,151,546.62
+500,45707,Mars,White Chocolate,UK,Specialty Store,Cash,3.08,48,147.84
+361,45708,Cadbury,Chocolate Bar,Italy,Specialty Store,Card,12.33,24,295.92
+9,45709,Mars,White Chocolate,Germany,Convenience Store,Card,11.05,121,1337.05
+2,45710,Lindt,Chocolate Bar,India,Online,Cash,17.73,144,2553.12
+20,45712,Nestle,Chocolate Box,Australia,Supermarket,Cash,22.09,81,1789.29
+149,45712,Cadbury,Chocolate Bar,UAE,Convenience Store,Cash,7.84,151,1183.84
+372,45712,Hershey,White Chocolate,Italy,Specialty Store,Card,5.55,6,33.3
+184,45713,Cadbury,Dark Chocolate,UAE,Supermarket,Card,10.38,147,1525.86
+232,45714,Toblerone,Chocolate Bar,USA,Supermarket,Digital Wallet,21.33,132,2815.56
+325,45715,Hershey,Chocolate Bar,USA,Supermarket,Cash,3.22,174,560.28
+192,45716,Cadbury,Chocolate Box,Italy,Specialty Store,Digital Wallet,10.27,33,338.91
+388,45716,Mars,Dark Chocolate,Germany,Supermarket,Digital Wallet,3.01,92,276.92
+404,45716,Nestle,White Chocolate,Australia,Online,Digital Wallet,8.53,144,1228.32
+310,45718,Hershey,Chocolate Box,Australia,Convenience Store,Digital Wallet,12.97,45,583.65
+311,45718,Cadbury,Chocolate Bar,France,Supermarket,Cash,16.87,80,1349.6
+338,45718,Hershey,Milk Chocolate,Italy,Supermarket,Card,19.3,198,3821.4
+40,45719,Ferrero,Chocolate Bar,Italy,Online,Digital Wallet,23.69,150,3553.5
+103,45719,Mars,Milk Chocolate,France,Supermarket,Digital Wallet,19.21,200,3842
+271,45720,Ferrero,Dark Chocolate,USA,Convenience Store,Card,8.52,68,579.36
+469,45720,Lindt,Milk Chocolate,Italy,Specialty Store,Digital Wallet,3.46,123,425.58
+167,45722,Lindt,Chocolate Bar,France,Supermarket,Cash,20.21,57,1151.97
+175,45722,Toblerone,Chocolate Bar,Saudi Arabia,Specialty Store,Digital Wallet,8.69,167,1451.23
+270,45724,Toblerone,Dark Chocolate,Saudi Arabia,Supermarket,Card,19.61,136,2666.96
+366,45725,Hershey,Chocolate Bar,Australia,Specialty Store,Cash,4.46,115,512.9
+424,45725,Hershey,Dark Chocolate,UK,Online,Card,13.25,63,834.75
+433,45725,Hershey,White Chocolate,Australia,Supermarket,Card,11.2,150,1680
+396,45726,Cadbury,Dark Chocolate,Germany,Convenience Store,Digital Wallet,9.55,66,630.3
+224,45728,Mars,Truffles,Saudi Arabia,Online,Digital Wallet,22.14,18,398.52
+347,45728,Lindt,Chocolate Box,Germany,Online,Cash,21.46,64,1373.44
+473,45728,Nestle,Chocolate Bar,France,Online,Card,11.93,169,2016.17
+360,45729,Mars,Dark Chocolate,Australia,Convenience Store,Cash,20.29,181,3672.49
+408,45729,Nestle,Dark Chocolate,Italy,Convenience Store,Digital Wallet,20.16,57,1149.12
+428,45729,Mars,Truffles,Saudi Arabia,Specialty Store,Card,19.43,155,3011.65
+429,45729,Lindt,Milk Chocolate,Australia,Convenience Store,Digital Wallet,8.08,170,1373.6
+397,45730,Toblerone,Milk Chocolate,Italy,Specialty Store,Card,13.99,112,1566.88
+488,45730,Ferrero,White Chocolate,Saudi Arabia,Supermarket,Digital Wallet,9.95,24,238.8
+233,45731,Toblerone,White Chocolate,France,Specialty Store,Cash,9.05,5,45.25
+226,45733,Ferrero,Truffles,Saudi Arabia,Online,Card,21.2,28,593.6
+51,45734,Toblerone,Chocolate Bar,Germany,Specialty Store,Cash,14.78,99,1463.22
+117,45734,Lindt,Dark Chocolate,Germany,Convenience Store,Digital Wallet,22.94,41,940.54
+332,45734,Nestle,Chocolate Bar,Canada,Supermarket,Cash,9.25,52,481
+447,45734,Toblerone,Chocolate Box,India,Supermarket,Card,6.53,14,91.42
+76,45735,Ferrero,Chocolate Box,France,Online,Card,7.7,182,1401.4
+288,45735,Hershey,Chocolate Bar,Italy,Specialty Store,Digital Wallet,11.79,57,672.03
+427,45735,Mars,Truffles,France,Online,Cash,23.2,162,3758.4
+190,45737,Lindt,Chocolate Box,UK,Convenience Store,Card,6.04,163,984.52
+299,45738,Hershey,Chocolate Box,France,Convenience Store,Card,11.66,126,1469.16
+5,45739,Cadbury,Milk Chocolate,France,Convenience Store,Cash,18.21,92,1675.32
+273,45739,Hershey,Truffles,UAE,Specialty Store,Cash,13.71,136,1864.56
+359,45741,Nestle,Truffles,Australia,Convenience Store,Card,15.19,150,2278.5
+81,45742,Toblerone,Chocolate Bar,USA,Specialty Store,Digital Wallet,21.41,37,792.17
+262,45742,Ferrero,White Chocolate,Australia,Convenience Store,Cash,6.14,186,1142.04
+461,45742,Hershey,Dark Chocolate,Australia,Convenience Store,Cash,12.62,85,1072.7
+201,45744,Lindt,Chocolate Bar,Australia,Supermarket,Card,4.22,167,704.74
+254,45746,Lindt,Chocolate Box,Saudi Arabia,Convenience Store,Digital Wallet,22.72,118,2680.96
+478,45746,Cadbury,Chocolate Box,Saudi Arabia,Online,Digital Wallet,6.46,156,1007.76
+389,45747,Toblerone,Truffles,Canada,Supermarket,Card,14.92,89,1327.88
+465,45747,Nestle,Truffles,Australia,Supermarket,Cash,3.2,108,345.6
+54,45748,Ferrero,Chocolate Box,Saudi Arabia,Specialty Store,Digital Wallet,22.33,11,245.63
+122,45750,Mars,Truffles,UK,Specialty Store,Card,24.93,116,2891.88
+220,45750,Nestle,Milk Chocolate,Canada,Online,Card,21.21,164,3478.44
+244,45750,Lindt,Dark Chocolate,Saudi Arabia,Convenience Store,Card,14.77,87,1284.99
+97,45751,Nestle,White Chocolate,Saudi Arabia,Convenience Store,Digital Wallet,13.47,95,1279.65
+305,45753,Nestle,White Chocolate,Italy,Supermarket,Cash,2.82,91,256.62
+363,45753,Hershey,Dark Chocolate,Italy,Convenience Store,Cash,17.79,174,3095.46
+393,45753,Hershey,Dark Chocolate,UAE,Specialty Store,Digital Wallet,10.73,55,590.15
+398,45753,Mars,Chocolate Box,Germany,Supermarket,Card,13.45,142,1909.9
+471,45753,Ferrero,Dark Chocolate,Italy,Supermarket,Digital Wallet,8.69,119,1034.11
+37,45755,Toblerone,Chocolate Box,Australia,Online,Digital Wallet,9.18,19,174.42
+8,45756,Mars,Milk Chocolate,UAE,Online,Cash,18.35,16,293.6
+105,45757,Ferrero,White Chocolate,USA,Supermarket,Card,9.17,97,889.49
+68,45759,Ferrero,Truffles,Italy,Online,Card,5.82,16,93.12
+90,45759,Nestle,Chocolate Box,France,Online,Digital Wallet,4.21,181,762.01
+467,45759,Mars,Chocolate Box,UK,Convenience Store,Cash,21.03,100,2103
+56,45760,Cadbury,White Chocolate,France,Supermarket,Cash,20.87,122,2546.14
+239,45761,Lindt,White Chocolate,UAE,Specialty Store,Digital Wallet,3.49,56,195.44
+337,45764,Cadbury,Dark Chocolate,France,Supermarket,Digital Wallet,22.06,90,1985.4
+10,45765,Mars,Chocolate Box,UK,Supermarket,Digital Wallet,17.58,184,3234.72
+266,45765,Toblerone,Chocolate Box,USA,Specialty Store,Digital Wallet,19.76,111,2193.36
+392,45767,Mars,Dark Chocolate,Italy,Online,Digital Wallet,7.13,197,1404.61
+80,45770,Lindt,Truffles,Saudi Arabia,Specialty Store,Digital Wallet,8.64,129,1114.56
+481,45770,Lindt,White Chocolate,Italy,Supermarket,Cash,2.95,127,374.65
+256,45772,Nestle,Milk Chocolate,France,Specialty Store,Cash,5.23,56,292.88
+218,45773,Lindt,White Chocolate,UK,Online,Digital Wallet,25,44,1100
+353,45773,Mars,Chocolate Box,USA,Online,Card,9.25,25,231.25
+151,45775,Ferrero,Chocolate Box,France,Convenience Store,Digital Wallet,16.16,95,1535.2
+29,45779,Ferrero,Chocolate Bar,Germany,Specialty Store,Cash,8.77,129,1131.33
+170,45779,Ferrero,White Chocolate,USA,Supermarket,Digital Wallet,15.75,9,141.75
+339,45780,Hershey,Truffles,Australia,Convenience Store,Card,14.92,77,1148.84
+432,45781,Lindt,Chocolate Bar,USA,Convenience Store,Card,13.74,157,2157.18
+477,45781,Lindt,Milk Chocolate,Italy,Specialty Store,Card,8.5,193,1640.5
+70,45782,Lindt,Dark Chocolate,India,Supermarket,Cash,5.82,181,1053.42
+11,45783,Cadbury,Chocolate Box,Australia,Supermarket,Digital Wallet,6.18,102,630.36
+86,45784,Toblerone,Milk Chocolate,France,Supermarket,Card,6.99,10,69.9
+55,45785,Lindt,Truffles,USA,Specialty Store,Cash,8.5,184,1564
+110,45785,Hershey,Chocolate Bar,Italy,Supermarket,Digital Wallet,5.17,200,1034
+448,45785,Cadbury,White Chocolate,UK,Convenience Store,Cash,11.87,189,2243.43
+169,45786,Mars,Dark Chocolate,Germany,Online,Card,20.47,33,675.51
+263,45786,Cadbury,Milk Chocolate,UAE,Online,Digital Wallet,6.92,146,1010.32
+108,45787,Lindt,Dark Chocolate,India,Specialty Store,Cash,23.67,127,3006.09
+379,45787,Hershey,Truffles,UK,Specialty Store,Digital Wallet,17.32,188,3256.16
+445,45788,Mars,Chocolate Box,UK,Supermarket,Digital Wallet,19.9,151,3004.9
+155,45789,Nestle,White Chocolate,Saudi Arabia,Online,Card,23.07,128,2952.96
+203,45789,Ferrero,Chocolate Box,UK,Supermarket,Digital Wallet,6.94,159,1103.46
+308,45791,Nestle,White Chocolate,Saudi Arabia,Convenience Store,Digital Wallet,11.13,119,1324.47
+340,45791,Hershey,Dark Chocolate,Canada,Convenience Store,Cash,10.59,132,1397.88
+36,45793,Cadbury,Truffles,Australia,Specialty Store,Cash,23.35,121,2825.35
+139,45793,Hershey,Chocolate Box,UK,Convenience Store,Digital Wallet,10.12,182,1841.84
+490,45793,Lindt,White Chocolate,UAE,Online,Digital Wallet,7.22,182,1314.04
+352,45794,Cadbury,Truffles,Canada,Supermarket,Digital Wallet,20.39,25,509.75
+410,45794,Mars,Dark Chocolate,Germany,Specialty Store,Cash,23.93,136,3254.48
+121,45795,Nestle,Milk Chocolate,Canada,Specialty Store,Card,15.47,200,3094
+475,45796,Toblerone,Milk Chocolate,USA,Convenience Store,Cash,6.55,86,563.3
+443,45797,Mars,Chocolate Bar,UK,Specialty Store,Card,14.29,72,1028.88
+350,45798,Lindt,Chocolate Bar,India,Supermarket,Cash,14.55,78,1134.9
+420,45798,Cadbury,Dark Chocolate,Saudi Arabia,Supermarket,Cash,4.6,97,446.2
+411,45799,Mars,Milk Chocolate,France,Supermarket,Digital Wallet,22.01,37,814.37
+84,45800,Cadbury,Dark Chocolate,Canada,Online,Digital Wallet,19.42,112,2175.04
+292,45800,Cadbury,White Chocolate,France,Specialty Store,Card,15.06,62,933.72
+409,45801,Cadbury,Chocolate Box,UAE,Convenience Store,Digital Wallet,15.93,48,764.64
+115,45802,Lindt,Chocolate Box,France,Convenience Store,Digital Wallet,18.32,121,2216.72
+223,45802,Toblerone,Truffles,Germany,Supermarket,Digital Wallet,20.01,133,2661.33
+45,45803,Mars,White Chocolate,Italy,Online,Digital Wallet,6.05,144,871.2
+303,45803,Toblerone,Chocolate Bar,Canada,Supermarket,Digital Wallet,12.72,169,2149.68
+417,45803,Ferrero,Chocolate Bar,Canada,Convenience Store,Digital Wallet,10.1,152,1535.2
+253,45804,Ferrero,Dark Chocolate,Germany,Online,Card,18.11,130,2354.3
+300,45804,Mars,Chocolate Bar,France,Online,Cash,17.03,27,459.81
+320,45804,Nestle,Chocolate Box,India,Convenience Store,Card,11.7,39,456.3
+231,45805,Lindt,Milk Chocolate,India,Specialty Store,Cash,7.85,36,282.6
+399,45805,Nestle,Truffles,Italy,Online,Card,5.66,85,481.1
+302,45806,Cadbury,Chocolate Bar,Italy,Online,Card,22.23,7,155.61
+328,45806,Toblerone,White Chocolate,Italy,Convenience Store,Cash,7.77,192,1491.84
+19,45808,Lindt,Chocolate Box,UAE,Supermarket,Digital Wallet,12.28,121,1485.88
+472,45809,Hershey,Dark Chocolate,UK,Convenience Store,Card,13.73,145,1990.85
+333,45811,Nestle,Truffles,USA,Specialty Store,Card,21.79,41,893.39
+91,45812,Nestle,Dark Chocolate,Italy,Online,Card,21.63,158,3417.54
+194,45812,Nestle,White Chocolate,UAE,Convenience Store,Cash,23.77,40,950.8
+329,45812,Toblerone,Milk Chocolate,India,Convenience Store,Card,22.22,174,3866.28
+484,45812,Mars,Truffles,Canada,Convenience Store,Cash,9.76,45,439.2
+463,45813,Toblerone,Dark Chocolate,France,Convenience Store,Cash,21.09,183,3859.47
+318,45815,Cadbury,Dark Chocolate,France,Online,Cash,18.77,106,1989.62
+486,45815,Ferrero,Milk Chocolate,USA,Specialty Store,Digital Wallet,19.01,80,1520.8
+63,45816,Hershey,Chocolate Box,UAE,Supermarket,Cash,17.51,88,1540.88
+258,45816,Mars,Truffles,Australia,Specialty Store,Card,11.46,188,2154.48
+437,45816,Nestle,Milk Chocolate,Australia,Convenience Store,Card,4.28,57,243.96
+183,45817,Toblerone,Milk Chocolate,Germany,Specialty Store,Cash,10.41,152,1582.32
+386,45817,Toblerone,Truffles,Saudi Arabia,Specialty Store,Cash,10.22,57,582.54
+38,45818,Hershey,Chocolate Bar,Australia,Supermarket,Cash,3.79,154,583.66
+60,45818,Lindt,Truffles,Italy,Supermarket,Card,12.32,135,1663.2
+179,45818,Ferrero,Chocolate Box,Canada,Online,Cash,17.46,100,1746
+251,45818,Lindt,Dark Chocolate,Germany,Specialty Store,Digital Wallet,17.12,68,1164.16
+43,45819,Lindt,Truffles,Italy,Online,Cash,23.4,23,538.2
+125,45819,Nestle,Truffles,Australia,Online,Digital Wallet,8.18,34,278.12
+205,45819,Hershey,Truffles,UAE,Convenience Store,Digital Wallet,5.9,22,129.8
+135,45822,Ferrero,Chocolate Bar,India,Supermarket,Card,22.07,183,4038.81
+412,45822,Nestle,Chocolate Box,India,Specialty Store,Cash,21.14,199,4206.86
+120,45823,Lindt,Milk Chocolate,Italy,Online,Digital Wallet,16.08,11,176.88
+12,45824,Ferrero,Dark Chocolate,Saudi Arabia,Specialty Store,Card,21.46,19,407.74
+143,45824,Cadbury,White Chocolate,India,Supermarket,Cash,20.41,80,1632.8
+415,45825,Lindt,Chocolate Box,Canada,Convenience Store,Cash,15.59,192,2993.28
+168,45826,Lindt,White Chocolate,Germany,Supermarket,Digital Wallet,19.92,157,3127.44
+343,45826,Nestle,Milk Chocolate,Canada,Convenience Store,Card,7.68,150,1152
+284,45827,Toblerone,White Chocolate,USA,Specialty Store,Card,17.66,111,1960.26
+219,45830,Ferrero,Chocolate Bar,India,Supermarket,Cash,22.22,163,3621.86
+27,45831,Ferrero,Chocolate Bar,France,Online,Cash,2.97,146,433.62
+32,45831,Ferrero,Milk Chocolate,France,Specialty Store,Cash,20.51,32,656.32
+269,45832,Nestle,Chocolate Box,Saudi Arabia,Convenience Store,Card,16.15,85,1372.75
+482,45832,Lindt,Dark Chocolate,Germany,Supermarket,Cash,18.63,87,1620.81
+236,45834,Mars,Dark Chocolate,Italy,Convenience Store,Cash,7.93,173,1371.89
+294,45834,Cadbury,Dark Chocolate,UAE,Online,Card,23.98,42,1007.16
+331,45834,Hershey,Chocolate Bar,Saudi Arabia,Specialty Store,Card,23.69,176,4169.44
+322,45836,Hershey,Chocolate Bar,Germany,Supermarket,Cash,5.17,142,734.14
+187,45837,Toblerone,Chocolate Box,India,Online,Cash,2.64,41,108.24
+202,45837,Nestle,Milk Chocolate,France,Online,Cash,18.87,170,3207.9
+79,45838,Nestle,Truffles,Australia,Supermarket,Card,9.22,104,958.88
+345,45838,Toblerone,Truffles,Germany,Online,Digital Wallet,6.31,189,1192.59
+395,45838,Ferrero,Chocolate Box,UAE,Online,Digital Wallet,21.52,163,3507.76
+474,45841,Cadbury,Chocolate Bar,Australia,Convenience Store,Card,13.29,129,1714.41
+257,45842,Hershey,Chocolate Bar,Germany,Online,Cash,14.97,99,1482.03
+365,45842,Cadbury,Truffles,Saudi Arabia,Convenience Store,Cash,4.9,6,29.4
+217,45843,Ferrero,Milk Chocolate,Saudi Arabia,Specialty Store,Cash,2.91,84,244.44
+221,45844,Hershey,Chocolate Bar,UAE,Specialty Store,Cash,17.72,65,1151.8
+249,45845,Lindt,Chocolate Bar,Germany,Specialty Store,Card,10.65,150,1597.5
+207,45846,Mars,Dark Chocolate,Italy,Specialty Store,Card,21.21,24,509.04
+425,45846,Hershey,Milk Chocolate,Germany,Online,Digital Wallet,22.32,40,892.8
+452,45846,Nestle,Milk Chocolate,Australia,Supermarket,Cash,15.81,131,2071.11
+164,45847,Ferrero,White Chocolate,UK,Convenience Store,Digital Wallet,7.39,118,872.02
+341,45847,Toblerone,Milk Chocolate,Germany,Online,Card,9.54,16,152.64
+250,45848,Toblerone,Milk Chocolate,Australia,Convenience Store,Card,12.49,24,299.76
+442,45848,Mars,Dark Chocolate,USA,Convenience Store,Card,5.36,73,391.28
+21,45849,Nestle,Chocolate Bar,USA,Convenience Store,Card,19.66,143,2811.38
+384,45849,Toblerone,Chocolate Box,Australia,Supermarket,Card,11.3,178,2011.4
+290,45850,Hershey,Chocolate Bar,Saudi Arabia,Convenience Store,Digital Wallet,9.56,49,468.44
+336,45851,Lindt,Dark Chocolate,France,Supermarket,Card,17.66,159,2807.94
+492,45851,Lindt,Truffles,Italy,Supermarket,Cash,10.4,101,1050.4
+111,45852,Cadbury,Chocolate Bar,India,Convenience Store,Digital Wallet,12.64,118,1491.52
+324,45852,Hershey,White Chocolate,Germany,Convenience Store,Cash,21.03,68,1430.04
+354,45852,Lindt,Chocolate Box,USA,Supermarket,Cash,10.99,126,1384.74
+158,45853,Lindt,Chocolate Box,France,Specialty Store,Cash,21,100,2100
+278,45855,Toblerone,White Chocolate,Italy,Online,Cash,13.85,200,2770
+252,45856,Cadbury,White Chocolate,Canada,Supermarket,Digital Wallet,23.05,35,806.75
+431,45858,Nestle,Milk Chocolate,Canada,Specialty Store,Cash,9.15,18,164.7
+282,45859,Nestle,White Chocolate,Italy,Convenience Store,Digital Wallet,24.79,194,4809.26
+376,45859,Ferrero,Chocolate Bar,Australia,Supermarket,Digital Wallet,10.71,149,1595.79
+459,45859,Cadbury,White Chocolate,Canada,Convenience Store,Cash,18.27,193,3526.11
+157,45860,Lindt,Truffles,Saudi Arabia,Convenience Store,Digital Wallet,2.81,142,399.02
+421,45860,Mars,Milk Chocolate,India,Online,Digital Wallet,16.58,190,3150.2
+470,45860,Mars,Truffles,Germany,Convenience Store,Cash,13.66,102,1393.32
+435,45861,Mars,Chocolate Bar,India,Specialty Store,Digital Wallet,13.9,165,2293.5
+307,45863,Ferrero,Truffles,Saudi Arabia,Supermarket,Cash,17.56,52,913.12
+436,45863,Toblerone,Chocolate Bar,Germany,Convenience Store,Cash,4.35,142,617.7
+77,45866,Hershey,Dark Chocolate,France,Specialty Store,Card,9.94,124,1232.56
+99,45866,Ferrero,Chocolate Box,Canada,Specialty Store,Card,13.49,199,2684.51
+123,45867,Lindt,Milk Chocolate,Saudi Arabia,Specialty Store,Digital Wallet,10,176,1760
+31,45868,Lindt,Chocolate Box,UK,Online,Card,13.01,191,2484.91
+178,45869,Hershey,Truffles,UK,Convenience Store,Card,10.13,121,1225.73
+298,45869,Lindt,Chocolate Box,Germany,Online,Digital Wallet,9.93,125,1241.25
+69,45870,Ferrero,Chocolate Box,India,Specialty Store,Card,22.44,152,3410.88
+154,45870,Nestle,Chocolate Bar,Saudi Arabia,Convenience Store,Cash,6.45,38,245.1
+301,45871,Lindt,Truffles,Canada,Supermarket,Digital Wallet,22.35,50,1117.5
+64,45873,Mars,Chocolate Box,Germany,Convenience Store,Card,17.46,102,1780.92
+171,45873,Lindt,Truffles,Canada,Convenience Store,Digital Wallet,14.34,195,2796.3
+17,45874,Hershey,Chocolate Bar,Canada,Convenience Store,Digital Wallet,15.92,103,1639.76
+33,45874,Ferrero,Dark Chocolate,Canada,Online,Cash,6.63,123,815.49
+49,45874,Lindt,White Chocolate,Germany,Convenience Store,Cash,21.16,16,338.56
+319,45874,Toblerone,Dark Chocolate,UK,Specialty Store,Cash,10.25,21,215.25
+148,45875,Nestle,White Chocolate,France,Specialty Store,Card,18.03,121,2181.63
+383,45878,Cadbury,Milk Chocolate,Australia,Supermarket,Card,4.88,30,146.4
+496,45880,Cadbury,Milk Chocolate,France,Specialty Store,Digital Wallet,6.03,30,180.9
+439,45881,Lindt,Milk Chocolate,UK,Specialty Store,Cash,18.92,66,1248.72
+387,45882,Cadbury,Dark Chocolate,UAE,Online,Digital Wallet,18.74,120,2248.8
+242,45883,Cadbury,Milk Chocolate,Canada,Specialty Store,Card,22.63,103,2330.89
+373,45883,Toblerone,Milk Chocolate,UAE,Convenience Store,Digital Wallet,10.03,171,1715.13
+405,45883,Lindt,Chocolate Box,France,Convenience Store,Cash,14.79,113,1671.27
+419,45883,Ferrero,Chocolate Box,Germany,Convenience Store,Cash,12.77,114,1455.78
+50,45884,Toblerone,Dark Chocolate,UK,Online,Digital Wallet,14.91,114,1699.74
+66,45884,Toblerone,Truffles,Germany,Online,Card,12.45,59,734.55
+127,45884,Cadbury,Chocolate Bar,Germany,Convenience Store,Card,19.6,57,1117.2
+295,45884,Hershey,Milk Chocolate,France,Convenience Store,Digital Wallet,17.26,196,3382.96
+73,45886,Nestle,Truffles,Canada,Convenience Store,Cash,22.69,195,4424.55
+134,45886,Cadbury,Chocolate Bar,Australia,Specialty Store,Card,14.62,93,1359.66
+245,45886,Ferrero,Chocolate Box,Canada,Convenience Store,Card,16.06,114,1830.84
+314,45886,Lindt,Chocolate Bar,UK,Online,Digital Wallet,14.38,97,1394.86
+321,45887,Hershey,Dark Chocolate,Australia,Supermarket,Digital Wallet,22.07,101,2229.07
+114,45888,Cadbury,Dark Chocolate,France,Convenience Store,Digital Wallet,18.01,125,2251.25
+406,45888,Hershey,Dark Chocolate,France,Supermarket,Digital Wallet,8.41,27,227.07
+462,45889,Nestle,Dark Chocolate,UK,Supermarket,Digital Wallet,9.44,72,679.68
+493,45889,Cadbury,Dark Chocolate,Saudi Arabia,Convenience Store,Cash,4.16,13,54.08
+162,45890,Mars,Chocolate Bar,India,Supermarket,Card,10.85,195,2115.75
+189,45890,Cadbury,Chocolate Box,Saudi Arabia,Online,Cash,10.17,99,1006.83
+317,45890,Hershey,Chocolate Bar,USA,Specialty Store,Digital Wallet,5.47,111,607.17
+440,45890,Cadbury,Chocolate Box,Germany,Online,Cash,16.28,19,309.32
+138,45891,Hershey,Chocolate Box,Germany,Online,Card,2.85,41,116.85
+451,45891,Cadbury,Chocolate Bar,UAE,Supermarket,Card,2.68,56,150.08
+7,45893,Lindt,Chocolate Bar,UAE,Convenience Store,Digital Wallet,14.57,101,1471.57
+197,45893,Toblerone,Truffles,Italy,Specialty Store,Digital Wallet,23.23,85,1974.55
+199,45893,Lindt,Truffles,UK,Supermarket,Card,21.22,97,2058.34
+146,45894,Cadbury,Chocolate Box,USA,Specialty Store,Card,16.85,122,2055.7
+466,45894,Lindt,Dark Chocolate,USA,Supermarket,Cash,4.79,40,191.6
+72,45895,Toblerone,White Chocolate,Canada,Specialty Store,Digital Wallet,17.52,148,2592.96
+96,45895,Hershey,White Chocolate,USA,Specialty Store,Card,15.32,176,2696.32
+160,45895,Mars,Truffles,UK,Supermarket,Cash,22.96,82,1882.72
+304,45897,Cadbury,Milk Chocolate,Canada,Convenience Store,Digital Wallet,8.64,33,285.12
+235,45898,Cadbury,White Chocolate,USA,Convenience Store,Cash,3.48,104,361.92
+476,45899,Ferrero,Milk Chocolate,UK,Supermarket,Digital Wallet,14.41,154,2219.14
+30,45900,Lindt,Dark Chocolate,India,Convenience Store,Card,20.67,53,1095.51
+240,45900,Mars,Milk Chocolate,UAE,Convenience Store,Cash,8.2,197,1615.4
+312,45902,Toblerone,White Chocolate,India,Specialty Store,Digital Wallet,5.95,196,1166.2
+238,45903,Lindt,Chocolate Box,Canada,Online,Card,16.71,39,651.69
+293,45903,Cadbury,White Chocolate,UK,Specialty Store,Card,10.35,189,1956.15
+380,45903,Toblerone,Chocolate Box,India,Online,Card,15.6,141,2199.6
+35,45904,Lindt,Milk Chocolate,India,Online,Card,7.31,107,782.17
+104,45905,Nestle,Chocolate Bar,Italy,Convenience Store,Cash,8.72,155,1351.6
+131,45905,Hershey,Chocolate Bar,Germany,Specialty Store,Cash,24.56,67,1645.52
+349,45907,Toblerone,Truffles,USA,Online,Digital Wallet,2.85,141,401.85
+93,45908,Mars,Truffles,Germany,Specialty Store,Cash,4.87,97,472.39
+344,45908,Mars,Truffles,Canada,Supermarket,Digital Wallet,24.25,169,4098.25
+16,45910,Nestle,Dark Chocolate,Germany,Supermarket,Digital Wallet,4.55,17,77.35
+204,45910,Nestle,Chocolate Bar,Canada,Convenience Store,Digital Wallet,12.94,149,1928.06
+370,45910,Hershey,White Chocolate,India,Convenience Store,Card,5.78,47,271.66
+124,45911,Nestle,Chocolate Bar,USA,Specialty Store,Cash,8.98,107,960.86
+355,45913,Nestle,White Chocolate,Italy,Online,Digital Wallet,21.52,170,3658.4
+119,45914,Lindt,Chocolate Bar,USA,Specialty Store,Digital Wallet,14.65,117,1714.05
+261,45915,Nestle,Dark Chocolate,Australia,Supermarket,Card,22.99,19,436.81
+449,45915,Ferrero,Milk Chocolate,Australia,Online,Card,17.65,18,317.7
+315,45916,Ferrero,Milk Chocolate,Saudi Arabia,Specialty Store,Cash,7.05,142,1001.1
+348,45916,Toblerone,Chocolate Box,Italy,Specialty Store,Digital Wallet,12.76,20,255.2
+133,45917,Cadbury,Chocolate Box,UAE,Specialty Store,Cash,8.51,5,42.55
+39,45918,Lindt,Chocolate Bar,UK,Supermarket,Card,4.3,52,223.6
+58,45918,Cadbury,Dark Chocolate,UK,Convenience Store,Cash,11.49,142,1631.58
+280,45918,Lindt,Dark Chocolate,Germany,Convenience Store,Card,11.53,15,172.95
+283,45918,Toblerone,White Chocolate,Canada,Online,Card,14.48,186,2693.28
+446,45918,Ferrero,Dark Chocolate,Canada,Convenience Store,Card,2.56,8,20.48
+444,45919,Nestle,Chocolate Bar,Germany,Convenience Store,Cash,10.6,132,1399.2
+67,45921,Cadbury,Dark Chocolate,France,Convenience Store,Cash,17.44,163,2842.72
+225,45922,Lindt,Milk Chocolate,UAE,Specialty Store,Digital Wallet,21.65,77,1667.05
+260,45922,Mars,Chocolate Bar,Germany,Supermarket,Card,10.25,146,1496.5
+243,45923,Mars,Truffles,UK,Specialty Store,Digital Wallet,8.5,26,221
+281,45923,Toblerone,Milk Chocolate,Saudi Arabia,Convenience Store,Cash,12.78,160,2044.8
+369,45924,Ferrero,Milk Chocolate,UAE,Convenience Store,Card,6.32,102,644.64
+94,45925,Toblerone,Chocolate Bar,Canada,Specialty Store,Card,24.22,74,1792.28
+211,45925,Cadbury,White Chocolate,India,Specialty Store,Card,16.22,98,1589.56
+286,45926,Nestle,Truffles,Germany,Supermarket,Cash,16.65,163,2713.95
+483,45927,Cadbury,Chocolate Box,India,Online,Card,21.87,23,503.01
+144,45929,Nestle,Milk Chocolate,Germany,Supermarket,Cash,11.77,179,2106.83
+176,45929,Toblerone,Truffles,UK,Online,Digital Wallet,9.14,134,1224.76
+455,45929,Hershey,Dark Chocolate,Germany,Convenience Store,Cash,24.62,112,2757.44
+92,45930,Lindt,Chocolate Bar,Saudi Arabia,Online,Card,12.14,99,1201.86
+140,45931,Mars,Chocolate Box,Canada,Online,Digital Wallet,11.05,86,950.3
+222,45931,Nestle,Milk Chocolate,Saudi Arabia,Specialty Store,Card,7.88,125,985
+416,45931,Nestle,Milk Chocolate,Canada,Convenience Store,Card,11.45,114,1305.3
+44,45933,Ferrero,White Chocolate,UK,Supermarket,Card,7.3,72,525.6
+403,45933,Toblerone,Chocolate Box,Canada,Online,Digital Wallet,9,122,1098
+25,45934,Ferrero,Chocolate Box,UAE,Specialty Store,Digital Wallet,19.49,181,3527.69
+85,45934,Ferrero,Chocolate Box,UK,Online,Cash,3.67,94,344.98
+126,45935,Ferrero,Chocolate Bar,Saudi Arabia,Specialty Store,Digital Wallet,12.89,18,232.02
+480,45935,Lindt,Dark Chocolate,USA,Supermarket,Digital Wallet,9.45,130,1228.5
+267,45937,Hershey,Milk Chocolate,India,Convenience Store,Card,9.02,82,739.64
+65,45938,Cadbury,Milk Chocolate,India,Convenience Store,Card,21.26,82,1743.32
+377,45939,Hershey,Chocolate Box,France,Specialty Store,Card,3.11,191,594.01
+129,45940,Lindt,Milk Chocolate,UK,Specialty Store,Cash,2.81,109,306.29
+46,45941,Lindt,Milk Chocolate,UAE,Online,Cash,9.24,174,1607.76
+47,45941,Toblerone,Milk Chocolate,Saudi Arabia,Supermarket,Digital Wallet,6,77,462
+342,45941,Mars,Truffles,UAE,Supermarket,Cash,23.53,153,3600.09
+497,45941,Toblerone,White Chocolate,UAE,Convenience Store,Cash,18.75,191,3581.25
+213,45943,Cadbury,Chocolate Box,Italy,Supermarket,Card,17.76,77,1367.52
+334,45943,Ferrero,White Chocolate,France,Convenience Store,Digital Wallet,14.42,104,1499.68
+53,45944,Toblerone,Chocolate Box,Germany,Supermarket,Cash,22.39,109,2440.51
+196,45944,Lindt,Truffles,USA,Specialty Store,Cash,21.25,95,2018.75
+185,45945,Toblerone,Chocolate Box,Australia,Online,Digital Wallet,24.43,164,4006.52
+82,45946,Mars,Truffles,Germany,Specialty Store,Cash,17.42,26,452.92
+426,45946,Ferrero,Truffles,Saudi Arabia,Supermarket,Digital Wallet,2.69,171,459.99
+402,45947,Ferrero,White Chocolate,USA,Convenience Store,Cash,3.19,199,634.81
+23,45948,Mars,Truffles,UK,Supermarket,Cash,23.81,26,619.06
+458,45948,Ferrero,Milk Chocolate,UAE,Convenience Store,Card,3.9,174,678.6
+118,45949,Lindt,Truffles,UAE,Specialty Store,Card,23.23,117,2717.91
+287,45951,Ferrero,Dark Chocolate,Canada,Convenience Store,Card,23.83,33,786.39
+309,45951,Cadbury,Chocolate Box,France,Online,Digital Wallet,2.76,172,474.72
+259,45952,Mars,Dark Chocolate,Canada,Specialty Store,Digital Wallet,4.16,86,357.76
+109,45953,Ferrero,Milk Chocolate,Italy,Convenience Store,Cash,16.66,18,299.88
+413,45953,Hershey,Truffles,Canada,Online,Digital Wallet,16.73,165,2760.45
+89,45954,Toblerone,Chocolate Box,India,Specialty Store,Digital Wallet,3.08,84,258.72
+59,45955,Lindt,Dark Chocolate,Italy,Specialty Store,Card,24.16,72,1739.52
+101,45955,Toblerone,White Chocolate,India,Convenience Store,Card,10.8,146,1576.8
+208,45955,Lindt,Truffles,Italy,Supermarket,Card,14.97,194,2904.18
+15,45957,Hershey,White Chocolate,France,Supermarket,Digital Wallet,12.14,154,1869.56
+78,45957,Nestle,Chocolate Bar,India,Specialty Store,Cash,23.79,10,237.9
+438,45958,Mars,Chocolate Box,UK,Convenience Store,Digital Wallet,16.77,171,2867.67
+116,45959,Hershey,Dark Chocolate,Australia,Supermarket,Digital Wallet,17.38,55,955.9
+200,45959,Hershey,White Chocolate,Saudi Arabia,Supermarket,Card,11.51,25,287.75
+407,45959,Toblerone,Chocolate Box,India,Supermarket,Digital Wallet,18.01,186,3349.86
+95,45961,Nestle,Dark Chocolate,UAE,Specialty Store,Cash,8.54,67,572.18
+172,45961,Ferrero,Chocolate Bar,USA,Convenience Store,Card,4.95,133,658.35
+495,45962,Mars,Dark Chocolate,India,Supermarket,Digital Wallet,24.67,128,3157.76
+132,45964,Nestle,Dark Chocolate,UAE,Specialty Store,Card,13.94,39,543.66
+209,45967,Lindt,Truffles,UK,Convenience Store,Digital Wallet,13.2,43,567.6
+88,45968,Mars,Dark Chocolate,Germany,Convenience Store,Cash,16.16,196,3167.36
+248,45969,Lindt,Milk Chocolate,UK,Supermarket,Digital Wallet,17.76,117,2077.92
+145,45970,Mars,Milk Chocolate,Canada,Supermarket,Cash,22.09,163,3600.67
+306,45970,Nestle,Truffles,Australia,Convenience Store,Cash,21.76,108,2350.08
+391,45972,Toblerone,Truffles,India,Online,Digital Wallet,22.37,120,2684.4
+272,45973,Nestle,White Chocolate,Italy,Convenience Store,Cash,11.91,45,535.95
+112,45975,Lindt,Milk Chocolate,France,Convenience Store,Digital Wallet,3.86,194,748.84
+159,45975,Cadbury,Chocolate Bar,France,Online,Digital Wallet,22.4,148,3315.2
+390,45980,Mars,Truffles,India,Online,Digital Wallet,6.65,168,1117.2
+48,45982,Hershey,White Chocolate,USA,Online,Digital Wallet,21.69,134,2906.46
+142,45982,Hershey,Milk Chocolate,UAE,Online,Cash,18.34,30,550.2
+188,45982,Mars,Chocolate Bar,France,Specialty Store,Card,24.37,28,682.36
+74,45984,Hershey,Chocolate Box,France,Convenience Store,Card,8.74,138,1206.12
+1,45985,Cadbury,Milk Chocolate,France,Supermarket,Digital Wallet,5,194,970
+198,45985,Hershey,Dark Chocolate,Saudi Arabia,Supermarket,Digital Wallet,11.9,34,404.6
+394,45985,Toblerone,Truffles,Italy,Online,Card,9.55,104,993.2
+264,45986,Ferrero,Milk Chocolate,Italy,Convenience Store,Digital Wallet,6.29,153,962.37
+14,45987,Ferrero,Milk Chocolate,Australia,Convenience Store,Digital Wallet,12.82,72,923.04
+173,45987,Hershey,Truffles,India,Online,Card,24.19,20,483.8
+165,45988,Cadbury,Milk Chocolate,UK,Specialty Store,Cash,10.57,106,1120.42
+130,45989,Mars,White Chocolate,Australia,Convenience Store,Card,21.22,132,2801.04
+4,45990,Ferrero,Truffles,Italy,Convenience Store,Cash,18.28,112,2047.36
+26,45990,Hershey,Dark Chocolate,France,Supermarket,Cash,10.9,137,1493.3
+34,45991,Lindt,Milk Chocolate,Germany,Specialty Store,Card,24.98,8,199.84
+177,45991,Mars,Milk Chocolate,India,Specialty Store,Cash,22.25,146,3248.5
+163,45993,Toblerone,Truffles,UAE,Online,Digital Wallet,4.73,130,614.9
+241,45993,Nestle,White Chocolate,India,Specialty Store,Digital Wallet,9.97,36,358.92
+285,45993,Toblerone,Milk Chocolate,USA,Specialty Store,Cash,20.12,153,3078.36
+186,45994,Lindt,Milk Chocolate,UAE,Convenience Store,Card,21.16,73,1544.68
+382,45994,Mars,Chocolate Bar,USA,Specialty Store,Card,17.46,47,820.62
+24,45995,Ferrero,White Chocolate,Australia,Specialty Store,Cash,13.19,145,1912.55
+57,45995,Cadbury,Dark Chocolate,UAE,Convenience Store,Digital Wallet,6.85,89,609.65
+150,45995,Toblerone,Chocolate Box,USA,Specialty Store,Card,11.41,7,79.87
+152,45995,Mars,Dark Chocolate,USA,Convenience Store,Card,17.82,40,712.8
+191,45996,Hershey,Truffles,UAE,Supermarket,Digital Wallet,12.04,160,1926.4
+166,45997,Toblerone,Dark Chocolate,USA,Convenience Store,Cash,7.27,168,1221.36
+182,45998,Nestle,Chocolate Box,USA,Convenience Store,Digital Wallet,23.68,113,2675.84
+234,45998,Cadbury,Dark Chocolate,Australia,Online,Card,17.53,139,2436.67
+313,45998,Ferrero,Chocolate Box,Italy,Online,Digital Wallet,21.08,200,4216
+193,45999,Hershey,Chocolate Bar,USA,Online,Cash,9.44,61,575.84
+42,46000,Cadbury,Truffles,Germany,Convenience Store,Card,18.61,66,1228.26
+87,46000,Hershey,Chocolate Box,UAE,Convenience Store,Cash,5.07,60,304.2
+247,46001,Toblerone,Chocolate Box,Germany,Online,Cash,16.84,98,1650.32
+147,46004,Hershey,White Chocolate,Italy,Convenience Store,Digital Wallet,14.8,23,340.4
+212,46005,Mars,White Chocolate,UK,Convenience Store,Cash,15.95,166,2647.7
+291,46006,Cadbury,Chocolate Bar,Canada,Supermarket,Cash,16.97,182,3088.54
+316,46006,Hershey,Dark Chocolate,Australia,Specialty Store,Cash,7.12,154,1096.48
+423,46006,Mars,White Chocolate,UK,Specialty Store,Digital Wallet,12.51,7,87.57
+357,46008,Toblerone,Chocolate Box,USA,Supermarket,Card,23.33,144,3359.52
+401,46008,Nestle,Truffles,Canada,Supermarket,Cash,13.56,186,2522.16
+378,46012,Mars,Truffles,Germany,Convenience Store,Cash,4.06,109,442.54
+374,46013,Ferrero,Truffles,Saudi Arabia,Convenience Store,Digital Wallet,7.02,85,596.7
+375,46013,Nestle,Milk Chocolate,Saudi Arabia,Specialty Store,Card,16.74,152,2544.48
+71,46014,Toblerone,Milk Chocolate,UK,Specialty Store,Cash,14.15,17,240.55
+296,46014,Toblerone,Chocolate Box,Italy,Supermarket,Cash,8.61,32,275.52
+128,46015,Mars,Chocolate Bar,France,Supermarket,Card,13.41,12,160.92
+479,46016,Toblerone,Milk Chocolate,Italy,Supermarket,Card,10.41,150,1561.5
+98,46017,Lindt,Chocolate Bar,France,Online,Cash,22.3,147,3278.1
+102,46017,Cadbury,Milk Chocolate,UK,Supermarket,Card,12.71,83,1054.93
+216,46017,Mars,Chocolate Bar,UK,Specialty Store,Digital Wallet,21.15,194,4103.1
+381,46017,Toblerone,Chocolate Box,UK,Online,Cash,22.65,142,3216.3
+28,46020,Lindt,Dark Chocolate,Saudi Arabia,Online,Digital Wallet,16.7,63,1052.1
+215,46020,Toblerone,Truffles,Saudi Arabia,Supermarket,Digital Wallet,23.61,84,1983.24
+441,46020,Ferrero,Truffles,Saudi Arabia,Convenience Store,Cash,5.59,7,39.13
+485,46020,Toblerone,White Chocolate,France,Supermarket,Card,24.3,182,4422.6
+174,46022,Lindt,White Chocolate,Italy,Supermarket,Cash,22.97,23,528.31
